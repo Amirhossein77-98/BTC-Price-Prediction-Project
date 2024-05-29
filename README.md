@@ -11,14 +11,14 @@ The objective of this project is to predict Bitcoin prices using two different a
 ## Papers
 
 ### 1. Neural Network with Stochastic Activation Function
-**Title**: Stochastic Neural Networks for Cryptocurrency Price Prediction
-**Publisher**: [IEEE](https://ieeexplore.ieee.org/abstract/document/9079491)
-**Description**: This paper introduces stochastic activation functions to neural networks to improve generalization. The stochasticity allows the model to capture more nuanced patterns in the data.
+- **Title**: Stochastic Neural Networks for Cryptocurrency Price Prediction
+- **Publisher**: [IEEE](https://ieeexplore.ieee.org/abstract/document/9079491)
+- **Description**: This paper introduces stochastic activation functions to neural networks to improve generalization. The stochasticity allows the model to capture more nuanced patterns in the data.
 
 ### 2. Hybrid Naive Bayes and Kohonen's SOM
-**Title**: Hybrid Prediction Model for Financial Markets Using Naive Bayes and Kohonen's SOM
-**Publisher**: [ArXives]()
-**Description**: This paper presents a hybrid approach combining Naive Bayes and Kohonen's SOM for financial market prediction, leveraging the strengths of both techniques to improve prediction accuracy.
+- **Title**: Hybrid Prediction Model for Financial Markets Using Naive Bayes and Kohonen's SOM
+- **Publisher**: [ArXives]()
+- **Description**: This paper presents a hybrid approach combining Naive Bayes and Kohonen's SOM for financial market prediction, leveraging the strengths of both techniques to improve prediction accuracy.
 
 ## Implementations
 
